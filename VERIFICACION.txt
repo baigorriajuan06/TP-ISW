@@ -1,0 +1,6 @@
+Verificación final
+Comando: dotnet test -m:1 -p:UseSharedCompilation=false --no-restore
+Resultado: Test Run Successful. Total tests: 37. Passed: 37.
+Incluye compilación del proyecto web y del proyecto de pruebas.
+Base original: https://github.com/alexiswalker/clean_architecture
+Commit base: a396859f320a7cdf8d8ec90ba52d80b06c2b617d
