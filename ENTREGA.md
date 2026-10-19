@@ -2,7 +2,7 @@
 
 ## Incorporación de métodos de envío
 
-Integrantes: completar con los nombres de los tres miembros del equipo.
+Integrantes: Baigorria Juan, Rodriguez Daniel, Ponce Tomás.
 
 El comercio electrónico dispone de productos, usuarios invitados, carritos y pedidos. Se incorpora el agregado ShippingMethod para representar las opciones de entrega ofrecidas por el comercio. Permite registrar una opción y recuperarla mediante su identificador, sin duplicar las entidades existentes.
 
